@@ -29,21 +29,3 @@ Describe possible mitigation.
 
 ---
 
-# config.yml
-
-```yaml
-blank_issues_enabled: false
-
-contact_links:
-  - name: Security Vulnerability
-    about: Report sensitive security issues privately.
-    url: https://github.com/pylon-digital/.github/security/policy
-
-  - name: Documentation
-    url: https://github.com/pylon-digital/documentation
-    about: Read project documentation before opening an issue.
-
-  - name: Discussions
-    url: https://github.com/pylon-digital/discussions
-    about: Ask questions and discuss ideas.
-```
