@@ -1,0 +1,6 @@
+# Global owners for critical infrastructure
+* @pylon-digital/infrastructure-core
+
+# Specialized domain owners
+/terraform/cloudflare/  @pylon-digital/networking-team
+/kubernetes/           @pylon-digital/platform-engineers
